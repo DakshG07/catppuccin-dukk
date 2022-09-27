@@ -846,6 +846,8 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 
 > **Note**: recently [Ctp v0.2.0](https://github.com/catppuccin/catppuccin/releases/tag/v0.2.0) was released and thus most of the ports need to be updated. Please refer to [this](https://github.com/orgs/catppuccin/projects/2) Kanban project to check out the progress made so far.
 
+##### (Search for a repo)[https://github.com/orgs/catppuccin/repositories#your-repos-filter]
+
 <details>
 <summary>
 <strong>Code Editors</strong>
