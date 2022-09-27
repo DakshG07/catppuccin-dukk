@@ -27,7 +27,7 @@
 	<a href="https://discord.gg/r6Mdz5dpFc">
 			<img alt="Discord" src="https://img.shields.io/discord/907385605422448742?style=for-the-badge&logo=discord&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41"></a>
 	<a href="https://github.com/orgs/catppuccin/repositories#your-repos-filter">
-		<img alt="Search" src="https://img.shields.io/badge/Find_a_repo-search-ed8796?style=for-the-badge&labelColor=302D41"></a>
+		<img alt="Search" src="https://img.shields.io/badge/Find_a_repo-search-ed8796?style=for-the-badge&labelColor=302D41&logo=github&logoColor=D9E0EE"></a>
 </p>
 
 &nbsp;
