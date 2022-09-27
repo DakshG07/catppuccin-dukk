@@ -849,7 +849,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 <details>
 <summary>
 <strong>Code Editors</strong>
-<summary/>
+</summary>
 
 - [Emacs](https://github.com/catppuccin/emacs)
 - [Geany](https://github.com/catppuccin/geany)
